@@ -1,4 +1,4 @@
-# Diversity
+# Diversity(Challenge Project)
 This project was done using asp.net as backend
 
 Airtable as the model
